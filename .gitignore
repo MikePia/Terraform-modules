@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+*.sqlite3
+env
+secret.md
+*.tfstate
+*.tfstate.*
+.terraform
+.terraform.*
+
